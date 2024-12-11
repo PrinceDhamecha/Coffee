@@ -52,7 +52,7 @@ nav li:hover {
 
 /* header starts here */
 .header {
-  background-image: url("images/pexels-nao-triponez-129207.jpg");
+  background-image: url(images/pexels-nao-triponez-129207.jpg);
   background-position: center;
   background-size: cover;
   height: 95vh;
